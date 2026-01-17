@@ -158,6 +158,7 @@
   background-image: linear-gradient(135deg, #e6beae 10%, #e7d8c9);
   padding: 5px;
   border-radius: 15px;
+  border: 4px solid #002855;
   height: 330px;
   display: flex;
   flex-direction: column;
